@@ -32,5 +32,5 @@ A full-stack Zerodha Clone built using React (frontend) and Node.js/Express with
 
 ---
 
-## 📁 Project Structure
+
 
